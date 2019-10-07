@@ -1,0 +1,5 @@
+(clear)
+(load OrientamentoUniversitario.clp)
+(set-strategy complexity)
+(reset)
+(run)
